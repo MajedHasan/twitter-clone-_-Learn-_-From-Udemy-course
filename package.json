@@ -2,14 +2,22 @@
   "name": "twitter_clone",
   "version": "1.0.0",
   "description": "",
-  "main": "myApp.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node myApp.js"
+    "start": "node app.js"
   },
-  "author": "Majed hasan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajedHasan/twitter-clone-_-Learn-_-From-Udemy-course.git"
+  },
+  "author": "Majed Hasan",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajedHasan/twitter-clone-_-Learn-_-From-Udemy-course/issues"
+  },
+  "homepage": "https://github.com/MajedHasan/twitter-clone-_-Learn-_-From-Udemy-course#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "express": "^4.17.2"
   }
 }
